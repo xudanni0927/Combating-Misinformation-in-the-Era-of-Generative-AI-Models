@@ -14,9 +14,9 @@ Furthermore, these models can also create personalized information by leveraging
 Besides,  according to familiarity principle, people also tend to develop liking or disliking for things merely because they are familiar with them. 
 In social media, the environment makes participants often encounter beliefs that amplify or reinforce their preexisting beliefs, known as echo chamber, it might cause participants circulates existing views without encountering opposing views, and reinforce their false cognition, known as confirmation bias.
 Therefore, when large AI generative models created a number of similar misinformation, it is easy for social media participants to believe them, share them and reinforce the false information in the echo chamber.
-
-![challenge-0807](https://github.com/xudanni0927/Combating-Misinformation-in-the-Era-of-Generative-AI-Models/assets/31812716/c960c04a-6813-421b-a5cb-fa2ff91dd2c1)
-
+<div style="text-align:center">
+  <img src=https://github.com/xudanni0927/Combating-Misinformation-in-the-Era-of-Generative-AI-Models/assets/31812716/c960c04a-6813-421b-a5cb-fa2ff91dd2c1 alt="Summary of major challenges in future misinformation detection">
+</div>
 
 # Motivation: 
 This paper examines the issue from psychological and societal perspectives, and explores the subtle manipulation traces found throughout the entire information life cycle.
