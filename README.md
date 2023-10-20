@@ -14,8 +14,6 @@ Furthermore, these models can also create personalized information by leveraging
 Besides,  according to familiarity principle, people also tend to develop liking or disliking for things merely because they are familiar with them. 
 In social media, the environment makes participants often encounter beliefs that amplify or reinforce their preexisting beliefs, known as echo chamber, it might cause participants circulates existing views without encountering opposing views, and reinforce their false cognition, known as confirmation bias.
 Therefore, when large AI generative models created a number of similar misinformation, it is easy for social media participants to believe them, share them and reinforce the false information in the echo chamber.
-![image](https://github.com/xudanni0927/Combating-Misinformation-in-the-Era-of-Generative-AI-Models/assets/31812716/cf10df9f-cdbf-455f-b240-4862b6dea33e)
-
 
 ![challenge-0807](https://github.com/xudanni0927/Combating-Misinformation-in-the-Era-of-Generative-AI-Models/assets/31812716/c960c04a-6813-421b-a5cb-fa2ff91dd2c1)
 
@@ -25,8 +23,6 @@ This paper examines the issue from psychological and societal perspectives, and 
 The motivation of this work is from summarzing misinformation features during its whole life cycle. Specially, two main cues.
 Firstly, during minformation creation stage, manipulation methods broke/lose patterns from authentic media, and leave unique cues. We summarized them as technical cues.
 Then, people are easy to be effected by information with some characteristics, taking abnormal sharing and interaction behaviors. Therefore, in the stage of creation, spreading and consumption, psychological characteristics in the misinformation and user’s behaviors should be paid attention, forming psychological cues.
-![image](https://github.com/xudanni0927/Combating-Misinformation-in-the-Era-of-Generative-AI-Models/assets/31812716/748a67cb-2124-4e01-adea-cefd69cff20a)
-
 <img width="600" alt="image" src="https://github.com/xudanni0927/Combating-Misinformation-in-the-Era-of-Generative-AI-Models/assets/31812716/21e15bf2-0d3e-4c98-b35b-eefb2d6053a9">
 
 
